@@ -2,6 +2,7 @@ package exercises;
 
 public class ProcessoSeletivo {
     public static void main(String[] args) {
+        System.out.println("Processo seletivo aberto");
         analisarCandidato((1900.0));
         analisarCandidato((2200.0));
         analisarCandidato((2000.0));
